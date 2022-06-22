@@ -1,2 +1,2 @@
 #!/bin/bash
-prints the absolute pathname of the current working directory
+display the content of your current directory
